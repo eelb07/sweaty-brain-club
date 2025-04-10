@@ -18,9 +18,9 @@
 |:---:|:---:|:---:|:---:|
 | **기초** | [수학 (math)](#-practice-problems-by-category) |  |  |
 | | [문자열 (string)](#-practice-problems-by-category) |  |  |
-| | [구현 (implementation)](#implementation-구현) | [25.04.02](https://everything-amber.vercel.app/cs) ✅|  |
+| | [구현 (implementation)](#implementation-구현) | |  |
 | | [정렬 (sorting)](#-practice-problems-by-category) |  |  |
-| **자료구조** | [자료 구조 (data_structures)](#data-structures-자료구조) | [25.04.07](https://everything-amber.vercel.app/cs) 🔄|  |
+| **자료구조** | [자료 구조 (data_structures)](#data-structures-자료구조) | [25.04.07](https://everything-amber.vercel.app/?category=🚁%20Data%20Structures) 🔄|  |
 | | [해시를 사용한 집합과 맵 (hash_set)](#-practice-problems-by-category) |  |  |
 | | [트리 (trees)](#-practice-problems-by-category) |  |  |
 | | [세그먼트 트리 (segtree)](#-practice-problems-by-category) |  |  |
