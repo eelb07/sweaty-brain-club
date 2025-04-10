@@ -16,27 +16,27 @@
 
 | 단계 | 알고리즘 | [seunga🦫](https://github.com/eelb07) | [chaewon🦫](https://github.com/mooniswan) |
 |:---:|:---:|:---:|:---:|
-| **기초** | [수학 (math)](#수학-math) |  |  |
-| | [문자열 (string)](#문자열-string) |  |  |
-| | [구현 (implementation)](#구현-implementation) |  |  |
-| | [정렬 (sorting)](#정렬-sorting) |  |  |
+| **기초** | [수학 (math)](#-practice-problems-by-category) |  |  |
+| | [문자열 (string)](#-practice-problems-by-category) |  |  |
+| | [구현 (implementation)](#implementation-구현) |  |  |
+| | [정렬 (sorting)](#-practice-problems-by-category) |  |  |
 | **자료구조** | [자료 구조 (data_structures)](#data-structures-자료구조) |  |  |
-| | [해시를 사용한 집합과 맵 (hash_set)](#해시를-사용한-집합과-맵-hash_set) |  |  |
-| | [트리 (trees)](#트리-trees) |  |  |
-| | [세그먼트 트리 (segtree)](#세그먼트-트리-segtree) |  |  |
-| **알고리즘 기초** | [이분 탐색 (binary_search)](#이분-탐색-binary_search) |  |  |
-| | [그리디 알고리즘 (greedy)](#그리디-알고리즘-greedy) |  |  |
-| | [브루트포스 알고리즘 (bruteforcing)](#브루트포스-알고리즘-bruteforcing) |  |  |
-| | [시뮬레이션 (simulation)](#시뮬레이션-simulation) |  |  |
-| **그래프 탐색** | [너비/깊이 우선 탐색 (bfs/dfs)](#너비깊이-우선-탐색-bfsdfs) |  |  |
-| | [그래프 이론 (graphs)](#그래프-이론-graphs) |  |  |
-| | [그래프 탐색 (graph_traversal)](#그래프-탐색-graph_traversal) |  |  |
-| **고급 알고리즘** | [다이나믹 프로그래밍 (dp)](#다이나믹-프로그래밍-dp) |  |  |
-| | [최단 경로 (shortest_path)](#최단-경로-shortest_path) |  |  |
-| | [다익스트라 (dijkstra)](#다익스트라-dijkstra) |  |  |
-| | [백트래킹 (backtracking)](#백트래킹-backtracking) |  |  |
-| **특수 주제** | [정수론 (number_theory)](#정수론-number_theory) |  |  |
-| | [비트마스킹 (bitmask)](#비트마스킹-bitmask) |  |  |
+| | [해시를 사용한 집합과 맵 (hash_set)](#-practice-problems-by-category) |  |  |
+| | [트리 (trees)](#-practice-problems-by-category) |  |  |
+| | [세그먼트 트리 (segtree)](#-practice-problems-by-category) |  |  |
+| **알고리즘 기초** | [이분 탐색 (binary_search)](#-practice-problems-by-category) |  |  |
+| | [그리디 알고리즘 (greedy)](#-practice-problems-by-category) |  |  |
+| | [브루트포스 알고리즘 (bruteforcing)](#-practice-problems-by-category) |  |  |
+| | [시뮬레이션 (simulation)](#-practice-problems-by-category) |  |  |
+| **그래프 탐색** | [너비/깊이 우선 탐색 (bfs/dfs)](#-practice-problems-by-category) |  |  |
+| | [그래프 이론 (graphs)](#-practice-problems-by-category) |  |  |
+| | [그래프 탐색 (graph_traversal)](#-practice-problems-by-category) |  |  |
+| **고급 알고리즘** | [다이나믹 프로그래밍 (dp)](#-practice-problems-by-category) |  |  |
+| | [최단 경로 (shortest_path)](#-practice-problems-by-category) |  |  |
+| | [다익스트라 (dijkstra)](#-practice-problems-by-category) |  |  |
+| | [백트래킹 (backtracking)](#-practice-problems-by-category) |  |  |
+| **특수 주제** | [정수론 (number_theory)](#-practice-problems-by-category) |  |  |
+| | [비트마스킹 (bitmask)](#-practice-problems-by-category) |  |  |
 
 
 ![rainbow](https://github.com/user-attachments/assets/cf26c6b9-4cd9-4a96-8f74-6b8aec6d9e18)
