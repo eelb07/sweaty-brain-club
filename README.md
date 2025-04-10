@@ -73,7 +73,15 @@
 - `docs: 📄 Update README with commit rules`
 - `docs: 📝 Add study guide to README`
 - `docs: 🔧 Fix formatting in README`
+***
+**📚 `study: Add [학습 내용]`**
 
+- 알고리즘 이론, 개념 정리, 학습 링크 추가 시 사용
+
+**Examples:**
+- `study: 📚 Add data structures overview to notes`
+- `study: 🧠 Add notes on Dijkstra's algorithm`
+- `study: 🔗 Link external tutorial on Fenwick Tree`
 ***
 **🧠 `feat: Add [문제 번호]`**
 
