@@ -1,5 +1,6 @@
 # sweaty-brain-club
-We’re not crying, it’s just brain sweat. This is our two-person algorithm study repo. 🦫🦫🧠💦
+**We’re not crying, it’s just brain sweat. This is our two-person algorithm study repo. 🦫🦫🧠💦**
+![rainbow](https://github.com/user-attachments/assets/cf26c6b9-4cd9-4a96-8f74-6b8aec6d9e18)
 
 ## ✨ Introduction
 > 🧩 유형별로 하나씩 이론을 공부하고, 관련 문제를 풀며 실력을 쌓아갑니다.  
@@ -19,7 +20,7 @@ We’re not crying, it’s just brain sweat. This is our two-person algorithm st
 | | [문자열 (string)](#문자열-string) |  |  |
 | | [구현 (implementation)](#구현-implementation) |  |  |
 | | [정렬 (sorting)](#정렬-sorting) |  |  |
-| **자료구조** | [자료 구조 (data_structures)](#자료-구조-data_structures) |  |  |
+| **자료구조** | [자료 구조 (data_structures)](#data-structures-자료구조) |  |  |
 | | [해시를 사용한 집합과 맵 (hash_set)](#해시를-사용한-집합과-맵-hash_set) |  |  |
 | | [트리 (trees)](#트리-trees) |  |  |
 | | [세그먼트 트리 (segtree)](#세그먼트-트리-segtree) |  |  |
