@@ -22,7 +22,7 @@
 | | [정렬 (sorting)](#-practice-problems-by-category) |  |  |
 | **자료구조** | [자료 구조 (data_structures)](#data-structures-자료구조) | [25.04.07](https://everything-amber.vercel.app/?category=🚁%20Data%20Structures) 🔄|  |
 | | [해시를 사용한 집합과 맵 (hash_set)](#-practice-problems-by-category) |  |  |
-| | [트리 (trees)](#-practice-problems-by-category) |  |  |
+| | [트리 (trees)](#-practice-problems-by-category) | [25.04.09](https://everything-amber.vercel.app/cs-ds-3)🔄 |  |
 | | [세그먼트 트리 (segtree)](#-practice-problems-by-category) |  |  |
 | **알고리즘 기초** | [이분 탐색 (binary_search)](#-practice-problems-by-category) |  |  |
 | | [그리디 알고리즘 (greedy)](#-practice-problems-by-category) |  |  |
