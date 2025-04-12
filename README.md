@@ -17,7 +17,7 @@
 | 단계 | 알고리즘 | [seunga🦫](https://github.com/eelb07) | [chaewon🦫](https://github.com/mooniswan) |
 |:---:|:---:|:---:|:---:|
 | **기초** | [수학 (math)](#-practice-problems-by-category) |  |  |
-| | [문자열 (string)](#-practice-problems-by-category) |  |  |
+| | [문자열 (string)](#string-문자열) | [25.04.13](https://everything-amber.vercel.app/algo-string-1) |  |
 | | [구현 (implementation)](#implementation-구현) | |  |
 | | [정렬 (sorting)](#-practice-problems-by-category) |  |  |
 | **자료구조** | [자료 구조 (data_structures)](#data-structures-자료구조) | [25.04.07](https://everything-amber.vercel.app/?category=🚁%20Data%20Structures) 🔄|  |
@@ -44,6 +44,12 @@
 
 ## 🎯 Practice Problems by Category 
 > 각 알고리즘 유형별 문제에 대한 풀이를 정리합니다.
+
+### string (문자열)
+
+| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [5525](https://www.acmicpc.net/problem/5525) | IOIOI | Silver 1 | [Seunga](./src/string/BOJ-5525-S.md) | ⭐ | #시간복잡도 |
 
 ### data structures (자료구조)
 
