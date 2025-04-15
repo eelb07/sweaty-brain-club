@@ -73,6 +73,12 @@
 | [1541](https://www.acmicpc.net/problem/1541) | 잃어버린 괄호 | Silver 2 | [Seunga](./src/greedy/BOJ-1541-S.md) |  | 발상 |
 | [1715](https://www.acmicpc.net/problem/1715) | 카드 정렬하기 | Gold 4 | [Seunga](./src/greedy/BOJ-1715-S.md) | ⭐ | 그리디 + 힙 |
 
+### bruteforcing (완전 탐색)
+
+| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [14501](https://www.acmicpc.net/problem/14501) | 퇴사 | Silver 3 | [Seunga](./src/brute-force/BOJ-14501-S.md) | ⭐ | DFS + 완탐 대표 유형 |
+
 ### Implementation (구현)
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ |
