@@ -25,7 +25,7 @@
 | | [트리 (trees)](#-practice-problems-by-category) | [25.04.09](https://everything-amber.vercel.app/cs-ds-3)🔄 |  |
 | | [세그먼트 트리 (segtree)](#-practice-problems-by-category) |  |  |
 | **알고리즘 기초** | [이분 탐색 (binary_search)](#-practice-problems-by-category) |  |  |
-| | [그리디 알고리즘 (greedy)](#-practice-problems-by-category) |  |  |
+| | [그리디 알고리즘 (greedy)](#greedy-그리디-알고리즘) |  |  |
 | | [브루트포스 알고리즘 (bruteforcing)](#-practice-problems-by-category) |  |  |
 | | [시뮬레이션 (simulation)](#-practice-problems-by-category) |  |  |
 | **그래프 탐색** | [너비/깊이 우선 탐색 (bfs/dfs)](#-practice-problems-by-category) |  |  |
@@ -56,6 +56,21 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [2504](https://www.acmicpc.net/problem/2504) | 괄호의 값 | Gold 5 | 내일쓸꺼 | ⭐ |  |
+
+### greedy (그리디 알고리즘)
+
+| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | 체육복 | level 1 | [Seunga](./src/greedy/Programmers-체육복-S.md) |  | 기본 |
+| [5585](https://www.acmicpc.net/problem/5585) | 거스름돈 | Bronze 2 | [Seunga](./src/greedy/BOJ-5585-S.md) |  | 기본 |
+| [1543](https://www.acmicpc.net/problem/1543) | 문제 검색 | Silver 5 | [Seunga](./src/greedy/BOJ-1543-S.md) |  | |
+| [20044](https://www.acmicpc.net/problem/20044) | Project Teams | Silver 4 | [Seunga](./src/greedy/BOJ-20044-S.md) |  | 기본 |
+| [1026](https://www.acmicpc.net/problem/1026) | 보물 | Silver 4 | [Seunga](./src/greedy/BOJ-1026-S.md) |  | 기본 |
+| [2217](https://www.acmicpc.net/problem/2217) | 로프 | Silver 4 | [Seunga](./src/greedy/BOJ-2217-S.md) |  | 발상 |
+| [2012](https://www.acmicpc.net/problem/2012) | 등수 매기기 | Silver 3 | [Seunga](./src/greedy/BOJ-2012-S.md) |  | 기본 |
+| [1459](https://www.acmicpc.net/problem/1459) | 걷기 | Silver 3 | [Seunga](./src/greedy/BOJ-1459-S.md) | ⭐ | 그리디 + 좌표 |
+| [1541](https://www.acmicpc.net/problem/1541) | 잃어버린 괄호 | Silver 2 | [Seunga](./src/greedy/BOJ-1541-S.md) |  | 발상 |
+| [1715](https://www.acmicpc.net/problem/1715) | 카드 정렬하기 | Gold 4 | [Seunga](./src/greedy/BOJ-1715-S.md) | ⭐ | 그리디 + 힙 |
 
 ### Implementation (구현)
 
