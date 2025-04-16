@@ -85,7 +85,7 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | Gold 5 | [이름1 풀이](./implementation/14891_이름1.md), [이름2 풀이](./implementation/14891_이름2.md) |  |  |
-| [22546](https://www.acmicpc.net/problem/22546) | 🐜 기적의 매매법 🐜 | Silver 5 | [Seunga](./src/implementation/BOJ-22546-S.md) | ⭐ |  |
+| [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | Silver 5 | [Seunga](./src/implementation/BOJ-20546-S.md) | ⭐ |  |
 
 ![rainbow](https://github.com/user-attachments/assets/cf26c6b9-4cd9-4a96-8f74-6b8aec6d9e18)
 
