@@ -82,11 +82,10 @@
 
 ### Implementation (구현)
 
-| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ |
-|:---:|:---:|:---:|:---:|:---:|
-| [14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | Gold 5 | [이름1 풀이](./implementation/14891_이름1.md), [이름2 풀이](./implementation/14891_이름2.md) |  |
-| [3190](https://www.acmicpc.net/problem/3190) | 뱀 | Gold 4 | [이름1 풀이](./implementation/3190_이름1.md), [이름2 풀이](./implementation/3190_이름2.md) | ⭐ |
-| [15686](https://www.acmicpc.net/problem/15686) | 치킨 배달 | Gold 5 | [이름1 풀이](./implementation/15686_이름1.md), [이름2 풀이](./implementation/15686_이름2.md) | ⭐ |
+| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | Gold 5 | [이름1 풀이](./implementation/14891_이름1.md), [이름2 풀이](./implementation/14891_이름2.md) |  |  |
+| [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | Silver 5 | [Seunga](./src/implementation/BOJ-20546-S.md) | ⭐ |  |
 
 ![rainbow](https://github.com/user-attachments/assets/cf26c6b9-4cd9-4a96-8f74-6b8aec6d9e18)
 
