@@ -21,9 +21,10 @@
 | | [구현 (implementation)](#implementation-구현) | |  |
 | | [정렬 (sorting)](#-practice-problems-by-category) |  |  |
 | **자료구조** | [자료 구조 (data_structures)](#data-structures-자료구조) | [25.04.07](https://everything-amber.vercel.app/?category=🚁%20Data%20Structures) 🔄|  |
-| | [해시를 사용한 집합과 맵 (hash_set)](#-practice-problems-by-category) |  |  |
+| | [해시를 사용한 집합과 맵 (hash_set)](#hash-set-해쉬) |  |  |
 | | [트리 (trees)](#-practice-problems-by-category) | [25.04.09](https://everything-amber.vercel.app/cs-ds-3)🔄 |  |
 | | [세그먼트 트리 (segtree)](#-practice-problems-by-category) |  |  |
+| | [서로소 집합 (union_find)](#union-find-서로소-집합) | [25.04.24](https://everything-amber.vercel.app/algo-union-find-1) |  |
 | **알고리즘 기초** | [이분 탐색 (binary_search)](#-practice-problems-by-category) |  |  |
 | | [그리디 알고리즘 (greedy)](#greedy-그리디-알고리즘) |  |  |
 | | [브루트포스 알고리즘 (bruteforcing)](#-practice-problems-by-category) |  |  |
@@ -87,7 +88,20 @@
 | [14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | Gold 5 | [이름1 풀이](./implementation/14891_이름1.md), [이름2 풀이](./implementation/14891_이름2.md) |  |  |
 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | Silver 5 | [Seunga](./src/implementation/BOJ-20546-S.md) | ⭐ |  |
 
+### hash set (해쉬)
+| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [7785](https://www.acmicpc.net/problem/7785) | 회사에 있는 사람 | Silver 5 | [Seunga](./src/hash/BOJ-7785-S.md) |  |  | 
+| [9375](https://www.acmicpc.net/problem/9375) | 패션왕 신해빈 | Silver 3 | [Seunga](./src/hash/BOJ-9375-S.md) |  |  | 
+| [13414](https://www.acmicpc.net/problem/13414) | 수강신청 | Silver 3 | [Seunga](./src/hash/BOJ-13414-S.md) |  |  | 
+
+### Union find (서로소 집합)
+| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [1717](https://www.acmicpc.net/problem/1717) | 집합의 표현 | Gold 5 | [Seunga](./src/union-find/BOJ-1717-S.md) | ⭐ | 대표 유형 | 
+
 ![rainbow](https://github.com/user-attachments/assets/cf26c6b9-4cd9-4a96-8f74-6b8aec6d9e18)
+
 
 ## ✅ Commit Message Rules ✍️
 
