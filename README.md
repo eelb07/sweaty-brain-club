@@ -87,6 +87,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | Gold 5 | [이름1 풀이](./implementation/14891_이름1.md), [이름2 풀이](./implementation/14891_이름2.md) |  |  |
 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | Silver 5 | [Seunga](./src/implementation/BOJ-20546-S.md) | ⭐ |  |
+| [8979](https://www.acmicpc.net/problem/8979) | 올림픽 | Silver 5 | [Seunga](./src/implementation/BOJ-8979-S.md) | 기업 기출 |  |
+
 
 ### hash set (해쉬)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
@@ -99,6 +101,7 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [1717](https://www.acmicpc.net/problem/1717) | 집합의 표현 | Gold 5 | [Seunga](./src/union-find/BOJ-1717-S.md) | ⭐ | 대표 유형 | 
+| [4195](https://www.acmicpc.net/problem/4195) | 친구 네트워크 | Gold 2 | [Seunga](./src/union-find/BOJ-4195-S.md) |  | 응용 | 
 
 ![rainbow](https://github.com/user-attachments/assets/cf26c6b9-4cd9-4a96-8f74-6b8aec6d9e18)
 
