@@ -24,7 +24,7 @@
 | | [해시를 사용한 집합과 맵 (hash_set)](#hash-set-해쉬) |  |  |
 | | [트리 (trees)](#-practice-problems-by-category) | [25.04.09](https://everything-amber.vercel.app/cs-ds-3)🔄 |  |
 | | [세그먼트 트리 (segtree)](#-practice-problems-by-category) |  |  |
-| | [서로소 집합 (union_find)](#union-find-서로소-집합) | [25.04.24](https://everything-amber.vercel.app/algo-union-find-1) |  |
+| | [서로소 집합 (union_find)](#union-find-서로소-집합) | [25.04.24](https://everything-amber.vercel.app/algo-union-find-1) |  | 
 | **알고리즘 기초** | [이분 탐색 (binary_search)](#-practice-problems-by-category) |  |  |
 | | [그리디 알고리즘 (greedy)](#greedy-그리디-알고리즘) |  |  |
 | | [브루트포스 알고리즘 (bruteforcing)](#-practice-problems-by-category) |  |  |
@@ -88,6 +88,7 @@
 | [14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | Gold 5 | [이름1 풀이](./implementation/14891_이름1.md), [이름2 풀이](./implementation/14891_이름2.md) |  |  |
 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | Silver 5 | [Seunga](./src/implementation/BOJ-20546-S.md) | ⭐ |  |
 | [8979](https://www.acmicpc.net/problem/8979) | 올림픽 | Silver 5 | [Seunga](./src/implementation/BOJ-8979-S.md) | 기업 기출 |  |
+| [21921](https://www.acmicpc.net/problem/21921) | 블로그 | Silver 3 | [Seunga](./src/implementation/BOJ-21921-S.md) | 시간 복잡도 |  |
 
 
 ### hash set (해쉬)
