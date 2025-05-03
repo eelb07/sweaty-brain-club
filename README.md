@@ -103,6 +103,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [1717](https://www.acmicpc.net/problem/1717) | 집합의 표현 | Gold 5 | [Seunga](./src/union-find/BOJ-1717-S.md) | ⭐ | 대표 유형 | 
 | [4195](https://www.acmicpc.net/problem/4195) | 친구 네트워크 | Gold 2 | [Seunga](./src/union-find/BOJ-4195-S.md) |  | 응용 | 
+| [11000](https://www.acmicpc.net/problem/11000) | 강의실 배정 | Gold 5 | [Seunga](./src/implementation/BOJ-11000-S.md) | ⭐ |  |
 
 ![rainbow](https://github.com/user-attachments/assets/cf26c6b9-4cd9-4a96-8f74-6b8aec6d9e18)
 
