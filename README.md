@@ -74,6 +74,20 @@
 | [1541](https://www.acmicpc.net/problem/1541) | 잃어버린 괄호 | Silver 2 | [Seunga](./src/greedy/BOJ-1541-S.md) |  | 발상 |
 | [1715](https://www.acmicpc.net/problem/1715) | 카드 정렬하기 | Gold 4 | [Seunga](./src/greedy/BOJ-1715-S.md) | ⭐ | 그리디 + 힙 |
 
+### bfs-dfs (너비-깊이 우선 탐색)
+
+| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [2468](https://www.acmicpc.net/problem/2468) | 안전 영역 | Silver 1 | [Seunga](./src/bfs-dfs/BOJ-2468-S.md) |  | BFS/DFS로 영역 개수 세기 |
+| [4963](https://www.acmicpc.net/problem/4963) | 섬의 개수 | Silver 2 | [Seunga](./src/bfs-dfs/BOJ-4963-S.md) |  | 8방향 DFS 대표 |
+| [11123](https://www.acmicpc.net/problem/11123) | 양 한마리... 양 두마리... | Silver 2 | [Seunga](./src/bfs-dfs/BOJ-11123-S.md) |  | 그래프 탐색 연습 |
+| [13565](https://www.acmicpc.net/problem/13565) | 침투 | Silver 2 | [Seunga](./src/bfs-dfs/BOJ-13565-S.md) |  | 위에서 아래로 퍼지는 DFS |
+| [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | 게임 맵 최단거리 | level 2 | [Seunga](./src/bfs-dfs/Programmers-게임_맵_최단거리-S.md) |  | BFS 최단거리 기본 |
+| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | 네트워크 | level 3 | [Seunga](./src/bfs-dfs/Programmers-네트워크-S.md) |  | DFS 연결 요소 |
+| [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | 단어 변환 | level 3 | [Seunga](./src/bfs-dfs/Programmers-단어변환-S.md) |  | BFS로 단계 구하기 |
+| [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 여행 경로 | level 3 | [Seunga](./src/bfs-dfs/Programmers-여행경로-S.md) |  | DFS + 백트래킹 |
+| [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | 타겟 넘버 | level 2 | [Seunga](./src/bfs-dfs/Programmers-타겟넘버-S.md) |  | DFS/재귀 기본 |
+
 ### bruteforcing (완전 탐색)
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
