@@ -80,6 +80,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [14501](https://www.acmicpc.net/problem/14501) | 퇴사 | Silver 3 | [Seunga](./src/brute-force/BOJ-14501-S.md) | ⭐ | DFS + 완탐 대표 유형 |
 | [14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기  | Silver 1 | [Seunga](./src/brute-force/BOJ-14888-S.md) |  |  |
+| [42839](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | 소수 찾기  | level 2 | [Seunga](./src/brute-force/Programmers-소수_찾기-S.md) |  | 완탐 & 순열 |
 
 ### Implementation (구현)
 
