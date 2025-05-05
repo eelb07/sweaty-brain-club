@@ -87,6 +87,7 @@
 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | 단어 변환 | level 3 | [Seunga](./src/bfs-dfs/Programmers-단어변환-S.md) |  | BFS로 단계 구하기 |
 | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 여행 경로 | level 3 | [Seunga](./src/bfs-dfs/Programmers-여행경로-S.md) |  | DFS + 백트래킹 |
 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | 타겟 넘버 | level 2 | [Seunga](./src/bfs-dfs/Programmers-타겟넘버-S.md) |  | DFS/재귀 기본 |
+| [7567](https://www.acmicpc.net/problem/7567) | 나이트의 이동 | Silver 1 | [Seunga](./src/bfs-dfs/BOJ-7567-S.md) | ⭐ | 최단거리 BFS |
 
 ### bruteforcing (완전 탐색)
 
