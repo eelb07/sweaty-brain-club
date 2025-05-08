@@ -51,6 +51,8 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [5525](https://www.acmicpc.net/problem/5525) | IOIOI | Silver 1 | [Seunga](./src/string/BOJ-5525-S.md) | ⭐ | #시간복잡도 |
+| [9935](https://www.acmicpc.net/problem/9935) | 문자열 폭발 | Gold 4 | [Seunga](./src/string/BOJ-9935-S.md) | ⭐ | 스택 + 비교 |
+
 
 ### data structures (자료구조)
 
