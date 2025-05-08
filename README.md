@@ -61,6 +61,7 @@
 | [2504](https://www.acmicpc.net/problem/2504) | 괄호의 값 | Gold 5 | 내일쓸꺼 | ⭐ |  |
 | [2493](https://www.acmicpc.net/problem/2493) | 탑 | Gold 4 | [Seunga](./src/data-structure/BOJ-2493-S.md) | ⭐ |  |
 | [1417](https://www.acmicpc.net/problem/1417) | 국회의원 선거 | Silver 5 | [Seunga](./src/data-structure/BOJ-1417-S.md) |  | 힙⭐ |
+| [2075](https://www.acmicpc.net/problem/2075) | N번째 큰 수 | Silver 3 | [Seunga](./src/data-structure/BOJ-2075-S.md) |  | 힙⭐ |
 
 ### greedy (그리디 알고리즘)
 
