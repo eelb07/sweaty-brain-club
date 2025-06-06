@@ -129,6 +129,17 @@
 ![rainbow](https://github.com/user-attachments/assets/cf26c6b9-4cd9-4a96-8f74-6b8aec6d9e18)
 
 
+## 🎯 SQL Practice Problems
+> SQL 코딩 테스트 대비용 핵심 쿼리와 개념 요약
+
+| 문제 | 난이도 | 풀이 링크 | ⭐ | 💬 |
+|:---:|:---:|:---:|:---:|:---:|
+| [회사에 있는 사람]((https://www.acmicpc.net/problem/7785) ) | Silver 5 | [Seunga](./src/hash/BOJ-7785-S.md) |  |
+
+
+![rainbow](https://github.com/user-attachments/assets/cf26c6b9-4cd9-4a96-8f74-6b8aec6d9e18)
+
+
 ## ✅ Commit Message Rules ✍️
 
 **📄 `docs: Update README`**
