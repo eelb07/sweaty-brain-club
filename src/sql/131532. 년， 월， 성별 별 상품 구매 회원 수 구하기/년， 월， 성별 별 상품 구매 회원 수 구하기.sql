@@ -1,0 +1,24 @@
+-- 년, 월, 성별 별로 상품을 구매한 회원수를 집계
+
+
+SELECT 
+    t.YEAR,
+    t.MONTH,
+    t.GENDER,
+    COUNT(DISTINCT USER_ID) AS USERS
+FROM 
+    (
+    SELECT 
+        ONL.USER_ID,
+        US.GENDER,
+        YEAR(ONL.SALES_DATE) AS YEAR,
+        MONTH(ONL.SALES_DATE) AS MONTH
+    FROM 
+        ONLINE_SALE ONL
+    JOIN 
+        USER_INFO US ON ONL.USER_ID = US.USER_ID
+    WHERE
+        US.GENDER IS NOT NULL
+    ) t
+GROUP BY YEAR, MONTH, GENDER
+ORDER BY YEAR, MONTH, GENDER

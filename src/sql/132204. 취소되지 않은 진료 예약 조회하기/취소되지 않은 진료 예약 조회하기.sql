@@ -1,0 +1,23 @@
+-- 2022-04-13 취소되지 않은 흉부외과 진료 예약내역 조회 
+
+SELECT
+    AP.APNT_NO,
+    PAT.PT_NAME,
+    PAT.PT_NO,
+    AP.MCDP_CD,
+    DOC.DR_NAME,
+    AP.APNT_YMD
+    
+FROM 
+    APPOINTMENT AP
+JOIN 
+    DOCTOR DOC ON AP.MDDR_ID = DOC.DR_ID
+JOIN 
+    PATIENT PAT ON AP.PT_NO = PAT.PT_NO
+WHERE
+    AP.APNT_YMD LIKE "2022-04-13%" 
+    AND AP.APNT_CNCL_YN = "N"
+    AND AP.MCDP_CD = "CS"
+ORDER BY 
+    AP.APNT_YMD 
+    ;

@@ -1,0 +1,41 @@
+-- 가장 많이 작성한 회원의 리뷰들을 조회 
+
+
+SELECT
+    P.MEMBER_NAME,
+    R.REVIEW_TEXT,
+    DATE_FORMAT(R.REVIEW_DATE, '%Y-%m-%d') AS REVIEW_DATE
+FROM
+    MEMBER_PROFILE P
+JOIN 
+    REST_REVIEW R
+    ON P.MEMBER_ID = R.MEMBER_ID
+WHERE 
+    P.MEMBER_ID = (
+        SELECT 
+        MEMBER_ID
+        FROM 
+            REST_REVIEW
+        GROUP BY
+            MEMBER_ID
+        ORDER BY
+            COUNT(*) DESC
+        LIMIT 1
+        )
+ORDER BY
+    REVIEW_DATE, REVIEW_TEXT ;
+    
+/*  
+WITH REVIEW_COUNT AS (
+    SELECT MEMBER_ID, COUNT(*) AS REVIEW_CNT
+    FROM REST_REVIEW
+    GROUP BY MEMBER_ID
+),
+MAX_MEMBER AS (
+    SELECT MEMBER_ID
+    FROM REVIEW_COUNT
+    WHERE REVIEW_CNT = (
+        SELECT MAX(REVIEW_CNT) FROM REVIEW_COUNT
+    )
+)
+*/

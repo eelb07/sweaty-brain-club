@@ -1,0 +1,21 @@
+-- 식품 분류별로 가격이 제일 비싼 식품의 분류, 가격, 이름을 조회
+
+WITH PRICE_RANKING AS (
+    SELECT 
+        CATEGORY,
+        PRICE,
+        PRODUCT_NAME,
+        MAX(PRICE) OVER (PARTITION BY CATEGORY) AS MAX_PRICE_IN_CATE
+    FROM 
+        FOOD_PRODUCT
+    WHERE
+        CATEGORY IN ( '과자', '국', '김치', '식용유')
+)
+SELECT 
+    CATEGORY,
+    PRICE AS MAX_PRICE,
+    PRODUCT_NAME
+FROM 
+    PRICE_RANKING
+WHERE PRICE = MAX_PRICE_IN_CATE
+ORDER BY PRICE DESC ;
