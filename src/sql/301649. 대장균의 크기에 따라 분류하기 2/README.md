@@ -1,6 +1,6 @@
-# [level 5] 멸종위기의 대장균 찾기 - 301651 
+# [level 3] 대장균의 크기에 따라 분류하기 2 - 301649 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/301651) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/301649) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 08일 19:14:29
+2025년 06월 11일 15:01:40
 
 ### 문제 설명
 
@@ -62,7 +62,7 @@
 
 <h5>문제</h5>
 
-<p>각 세대별 자식이 없는 개체의 수(<code>COUNT</code>)와 세대(<code>GENERATION</code>)를 출력하는 SQL문을 작성해주세요. 이때 결과는 세대에 대해 오름차순 정렬해주세요. 단, 모든 세대에는 자식이 없는 개체가 적어도 1개체는 존재합니다.</p>
+<p>대장균 개체의 크기를 내름차순으로 정렬했을 때 상위 0% ~ 25% 를 'CRITICAL', 26% ~ 50% 를 'HIGH', 51% ~ 75% 를 'MEDIUM', 76% ~ 100% 를 'LOW' 라고 분류합니다. 대장균 개체의 ID(<code>ID</code>) 와 분류된 이름(<code>COLONY_NAME</code>)을 출력하는 SQL 문을 작성해주세요. 이때 결과는 개체의 ID 에 대해 오름차순 정렬해주세요 . 단, 총 데이터의 수는 4의 배수이며 같은 사이즈의 대장균 개체가 서로 다른 이름으로 분류되는 경우는 없습니다.</p>
 
 <hr>
 
@@ -94,7 +94,7 @@
 </tr>
 <tr>
 <td>3</td>
-<td>2</td>
+<td>1</td>
 <td>100</td>
 <td>2020/01/01</td>
 <td>4</td>
@@ -122,7 +122,7 @@
 </tr>
 <tr>
 <td>7</td>
-<td>4</td>
+<td>6</td>
 <td>101</td>
 <td>2022/01/01</td>
 <td>23</td>
@@ -136,42 +136,51 @@
 </tr>
 </tbody>
       </table>
-<p>각 세대별 대장균의 ID는 다음과 같습니다.</p>
+<p>기준에 의해 분류된 대장균들의 ID는 다음과 같습니다.</p>
 
-<p>1 세대 : ID 1, ID 2<br>
-2 세대 : ID 3, ID 4, ID 5<br>
-3 세대 : ID 6, ID 7<br>
-4 세대 : ID 8</p>
+<p>CRITICAL (상위 0% ~ 25%) : ID 6, ID 7<br>
+HIGH (상위 26% ~ 50%) : ID 3, ID 5<br>
+MEDIUM (상위 51% ~ 75%) : ID 1, ID 4<br>
+LOW (상위 76% ~ 100%) : ID 2, ID 8</p>
 
-<p>이 때 각 세대별 자식이 없는 대장균의 ID는 다음과 같습니다.</p>
-
-<p>1 세대 : ID 1<br>
-2 세대 : ID 3, ID 5<br>
-3 세대 : ID 7<br>
-4 세대 : ID 8</p>
-
-<p>따라서 결과를 세대에 대해 오름차순 정렬하면 다음과 같아야 합니다.</p>
+<p>따라서 결과를 ID 에 대해 오름차순 정렬하면 다음과 같아야 합니다.</p>
 <table class="table">
         <thead><tr>
-<th>COUNT</th>
-<th>GENERATION</th>
+<th>ID</th>
+<th>COLONY_NAME</th>
 </tr>
 </thead>
         <tbody><tr>
 <td>1</td>
-<td>1</td>
+<td>MEDIUM</td>
 </tr>
 <tr>
 <td>2</td>
-<td>2</td>
+<td>LOW</td>
 </tr>
 <tr>
-<td>1</td>
 <td>3</td>
+<td>HIGH</td>
 </tr>
 <tr>
-<td>1</td>
 <td>4</td>
+<td>MEDIUM</td>
+</tr>
+<tr>
+<td>5</td>
+<td>HIGH</td>
+</tr>
+<tr>
+<td>6</td>
+<td>CRITICAL</td>
+</tr>
+<tr>
+<td>7</td>
+<td>CRITICAL</td>
+</tr>
+<tr>
+<td>8</td>
+<td>LOW</td>
 </tr>
 </tbody>
       </table>
