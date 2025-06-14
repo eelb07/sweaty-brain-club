@@ -14,7 +14,7 @@
 > 🧩 알고리즘 개념과 기법을 유형별로 정리해두는 이론 중심 노트입니다.   
 > 🧠 문제를 풀다가 유용한 팁이나 아이디어가 떠오르면, 선택적으로 덧붙이는 방식으로 관리합니다.
 
-| 단계 | 알고리즘 | [seunga🦫](https://github.com/eelb07) | [chaewon🦫](https://github.com/mooniswan) |
+| 단계 | 알고리즘 | [seunga🦫](https://github.com/eelb07) | [moon🦫](https://github.com/mooniswan) |
 |:---:|:---:|:---:|:---:|
 | **기초** | [수학 (math)](#-practice-problems-by-category) |  |  |
 | | [문자열 (string)](#string-문자열) | [25.04.13](https://everything-amber.vercel.app/algo-string-1) |  |
@@ -68,7 +68,7 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | 체육복 | level 1 | [Seunga](./src/greedy/Programmers-체육복-S.md) |  | 기본 |
-| [5585](https://www.acmicpc.net/problem/5585) | 거스름돈 | Bronze 2 | [Seunga](./src/greedy/BOJ-5585-S.md) |  | 기본 |
+| [5585](https://www.acmicpc.net/problem/5585) | 거스름돈 | Bronze 2 | [Seunga](./src/greedy/BOJ-5585-S.md), [Moon](./src/greedy/BOJ-5585-M.md) |  | 기본 |
 | [1543](https://www.acmicpc.net/problem/1543) | 문제 검색 | Silver 5 | [Seunga](./src/greedy/BOJ-1543-S.md) |  | |
 | [20044](https://www.acmicpc.net/problem/20044) | Project Teams | Silver 4 | [Seunga](./src/greedy/BOJ-20044-S.md) |  | 기본 |
 | [1026](https://www.acmicpc.net/problem/1026) | 보물 | Silver 4 | [Seunga](./src/greedy/BOJ-1026-S.md) |  | 기본 |
