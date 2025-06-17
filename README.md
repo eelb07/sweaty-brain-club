@@ -97,6 +97,7 @@
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| [1182](https://www.acmicpc.net/problem/1182) | 부분수열의 합  | Silver 2 | [Seunga](./src/brute-force/BOJ-1182-S.md) |  |  |
 | [14501](https://www.acmicpc.net/problem/14501) | 퇴사 | Silver 3 | [Seunga](./src/brute-force/BOJ-14501-S.md) | ⭐ | DFS + 완탐 대표 유형 |
 | [14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기  | Silver 1 | [Seunga](./src/brute-force/BOJ-14888-S.md) |  |  |
 | [42839](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | 소수 찾기  | level 2 | [Seunga](./src/brute-force/Programmers-소수_찾기-S.md) |  | 완탐 & 순열 |
@@ -115,6 +116,7 @@
 ### hash set (해쉬)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| [7662](https://www.acmicpc.net/problem/7662) | 이중 우선순위 큐 | Gold 4 | [Seunga](./src/hash/BOJ-7662-S.md) |  |  | 
 | [7785](https://www.acmicpc.net/problem/7785) | 회사에 있는 사람 | Silver 5 | [Seunga](./src/hash/BOJ-7785-S.md) |  |  | 
 | [9375](https://www.acmicpc.net/problem/9375) | 패션왕 신해빈 | Silver 3 | [Seunga](./src/hash/BOJ-9375-S.md) |  |  | 
 | [13414](https://www.acmicpc.net/problem/13414) | 수강신청 | Silver 3 | [Seunga](./src/hash/BOJ-13414-S.md) |  |  | 
@@ -165,20 +167,20 @@
 
 | 유형 | 문제명 | 난이도 | ⭐ | ✅ |
 | :-----: | :----------------------------: |:-: | :-: | :-: |
-| 해시 | 완주하지 못한 선수 | Level 1 |   |    |
-| 해시 | 폰켓몬 | Level 1 |   |    |
-| 해시 | 전화번호 목록 | Level 2 |   |    |
+| 해시 | 완주하지 못한 선수 | Level 1 |   | ✅ Counter 차집합? 연산?   |
+| 해시 | 폰켓몬 | Level 1 |   |  ✅   |
+| 해시 | 전화번호 목록 | Level 2 |   |  ✅ startswith 문자열  |
 | 해시 | 의상 | Level 2 |   |    |
 | 해시 | 베스트앨범 | Level 3 |   |    |
-| 스택/큐 | 같은 숫자는 싫어 | Level 1 |   |    |
-| 스택/큐 | 기능개발 | Level 2 |   |    |
-| 스택/큐 | 올바른 괄호 | Level 2 |   |    |
+| 스택/큐 | 같은 숫자는 싫어 | Level 1 |   | ✅   |
+| 스택/큐 | 기능개발 | Level 2 |   |  ✅  |
+| 스택/큐 | 올바른 괄호 | Level 2 |   |  ✅  |
 | 스택/큐 | 프로세스 | Level 2 |   |    |
 | 스택/큐 | 다리를 지나는 트럭 | Level 2 |   |    |
 | 스택/큐 | 주식가격 | Level 2 |   |    |
-| 힙 | 더 맵게 | Level 2 |   |    |
-| 힙 | 디스크 컨트롤러 | Level 3 |   |    |
-| 힙 | 이중우선순위큐 | Level 3 |   |    |
+| 힙 | 더 맵게 | Level 2 |   |  ✅  |
+| 힙 | 디스크 컨트롤러 | Level 3 | ⭐⭐⭐  | ✅   |
+| 힙 | 이중우선순위큐 | Level 3 | ✅  |    |
 | 정렬 | K번째수 | Level 1 |   |    |
 | 정렬 | 가장 큰 수 | Level 2 |   |    |
 | 정렬 | H-Index | Level 2 |   |    |
@@ -189,7 +191,7 @@
 | 완전탐색 | 피로도 | Level 2 |   |    |
 | 완전탐색 | 전력망을 둘로 나누기 | Level 2 |   |    |
 | 완전탐색 | 모음사전 | Level 2 |   |    |
-| 탐욕법 | 체육복 | Level 1 |   |    |
+| 탐욕법 | 체육복 | Level 1 |   |  ✅  |
 | 탐욕법 | 조이스틱 | Level 2 |   |    |
 | 탐욕법 | 큰 수 만들기 | Level 2 |   |    |
 | 탐욕법 | 구명보트 | Level 2 |   |    |
@@ -200,16 +202,16 @@
 | 동적계획법 | 등굣길 | Level 3 |   |    |
 | 동적계획법 | 사칙연산 | Level 4 |   |    |
 | 동적계획법 | 도둑질 | Level 4 |   |    |
-| DFS/BFS | 타겟 넘버 | Level 2 |   |    |
-| DFS/BFS | 네트워크 | Level 3 |   |    |
-| DFS/BFS | 게임 맵 최단거리 | Level 2 |   |    |
-| DFS/BFS | 단어 변환 | Level 3 |   |    |
+| DFS/BFS | 타겟 넘버 | Level 2 |   | ✅   |
+| DFS/BFS | 네트워크 | Level 3 |    |  ✅ dfs 대표 |
+| DFS/BFS | 게임 맵 최단거리 | Level 2 |   | ✅ bfs 대표   |
+| DFS/BFS | 단어 변환 | Level 3 |   | ✅ zip   |
 | DFS/BFS | 아이템 줍기 | Level 3 |   |    |
 | DFS/BFS | 여행경로 | Level 3 |   |    |
 | DFS/BFS | 퍼즐 조각 채우기 | Level 3 |   |    |
 | 이분탐색 | 입국심사 | Level 3 |   |    |
 | 이분탐색 | 징검다리 | Level 4 |   |    |
-| 그래프 | 가장 먼 노드 | Level 3 |   |    |
+| 그래프 | 가장 먼 노드 | Level 3 |   |  ✅  |
 | 그래프 | 순위 | Level 3 |   |    |
 | 그래프 | 방의 개수 | Level 5 |   |    |
 
