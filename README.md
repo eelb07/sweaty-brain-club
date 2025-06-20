@@ -97,6 +97,8 @@
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| [1535](https://www.acmicpc.net/problem/1535) | 안녕  | Silver 2 | 
+| [2057](https://www.acmicpc.net/problem/2057) | 팩토리얼 분해  | Silver 5 | [Seunga](./src/brute-force/BOJ-2057-S.md) |  |  |
 | [1182](https://www.acmicpc.net/problem/1182) | 부분수열의 합  | Silver 2 | [Seunga](./src/brute-force/BOJ-1182-S.md) |  |  |
 | [14501](https://www.acmicpc.net/problem/14501) | 퇴사 | Silver 3 | [Seunga](./src/brute-force/BOJ-14501-S.md) | ⭐ | DFS + 완탐 대표 유형 |
 | [14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기  | Silver 1 | [Seunga](./src/brute-force/BOJ-14888-S.md) |  |  |
