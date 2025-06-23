@@ -97,6 +97,7 @@
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| [32680](https://www.acmicpc.net/problem/32680) |  두 스택 | Silver 3 | [Seunga](./src/brute-force/BOJ-32680-S.md) |  |  |
 | [2373](https://www.acmicpc.net/problem/2373) |  파일 구별하기 | Silver 3 | [Seunga](./src/brute-force/BOJ-2373-S.md) |  |  |
 | [30804](https://www.acmicpc.net/problem/30804) | 과일 탕후루  | Silver 2 | [Seunga](./src/brute-force/BOJ-30804-S.md) |  |  |
 | [1535](https://www.acmicpc.net/problem/1535) | 안녕  | Silver 2 | [Seunga](./src/brute-force/BOJ-1535-S.md) |  |  |
