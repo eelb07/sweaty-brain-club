@@ -113,6 +113,7 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | ⭐ | 💬 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | Gold 5 | [이름1 풀이](./implementation/14891_이름1.md), [이름2 풀이](./implementation/14891_이름2.md) |  |  |
+| [28298](https://www.acmicpc.net/problem/28298) | 더 흔한 타일 색칠 문제 | Silver 2 | [Seunga](./src/implementation/BOJ-28298-S.md) | ⭐⭐⭐⭐⭐ | 다차원 리스트 접근 + 타일 축소 + most common |
 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | Silver 5 | [Seunga](./src/implementation/BOJ-20546-S.md) | ⭐ |  |
 | [8979](https://www.acmicpc.net/problem/8979) | 올림픽 | Silver 5 | [Seunga](./src/implementation/BOJ-8979-S.md) | 기업 기출 |  |
 | [21921](https://www.acmicpc.net/problem/21921) | 블로그 | Silver 3 | [Seunga](./src/implementation/BOJ-21921-S.md) | 시간 복잡도 |  |
